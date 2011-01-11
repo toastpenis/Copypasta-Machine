@@ -1,0 +1,5 @@
+[10-Jan-2011 02:13:26] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/toast/public_html/CopyPastaMachine/pdf.php on line 9
+[10-Jan-2011 02:13:36] PHP Parse error:  syntax error, unexpected '.' in /home/toast/public_html/CopyPastaMachine/pdf.php on line 9
+[10-Jan-2011 02:13:37] PHP Parse error:  syntax error, unexpected '.' in /home/toast/public_html/CopyPastaMachine/pdf.php on line 9
+[10-Jan-2011 02:20:13] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/toast/public_html/CopyPastaMachine/pdf.php on line 9
+[10-Jan-2011 02:21:56] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/toast/public_html/CopyPastaMachine/pdf.php on line 11
